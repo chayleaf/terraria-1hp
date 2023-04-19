@@ -1,0 +1,5 @@
+displayName = 1HP playthrough
+author = chayleaf
+version = 0.1.0
+homepage = https://github.com/chayleaf/terraria-1hp
+includeSource = true
