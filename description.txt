@@ -11,3 +11,5 @@ Planned:
 - QoL fixes to prevent RNG instadeaths
 - Maybe some configuration?
 - Maybe don't override the HP of existing characters with over 1HP?
+
+Source code: https://github.com/chayleaf/terraria-1hp/
