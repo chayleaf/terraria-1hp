@@ -26,7 +26,7 @@ namespace Mod1hp
 				Player.ConsumedLifeCrystals = tag.GetInt("ConsumedLifeCrystals");
 				Player.ConsumedLifeFruit = tag.GetInt("ConsumedLifeFruit");
 				Player.statLifeMax = tag.GetInt("statLifeMax");
-				Player.statLifeMax2 = tag.GetInt("statLifeMax");
+				Player.statLifeMax2 = tag.GetInt("statLifeMax2");
 			} catch { }
 		}
 	}
