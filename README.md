@@ -8,7 +8,7 @@ This mod:
   progression!)
 - fixes game UI not being shown when max HP is less than 19 because of a
   division by zero
-- fixes a ROD exploit that allowed to use it infinitely if your max HP
+- fixes a RoD exploit that allowed to use it infinitely if your max HP
   is less than 7 (well, now it just kills you if you use it while the
   debuff is active)
 - reduces respawn cooldown by 4 times
