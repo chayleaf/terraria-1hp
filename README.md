@@ -20,7 +20,9 @@ Planned:
 
 ## Installing
 
-Just do it via Steam Workshop. Otherwise:
+Just do it via [Steam
+Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2964415625).
+Otherwise:
 
 Make sure you're using the 1.4.4 beta branch of tModLoader (it greatly
 simplifies what this mod has to do compared to 1.4.3.6 because its logic
