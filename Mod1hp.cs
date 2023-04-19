@@ -5,6 +5,7 @@ using MonoMod.Cil;
 using MonoMod.RuntimeDetour;
 using MonoMod.RuntimeDetour.HookGen;
 using Terraria;
+using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ModLoader.IO;
@@ -28,6 +29,9 @@ namespace Mod1hp
 				Player.statLifeMax = tag.GetInt("statLifeMax");
 				Player.statLifeMax2 = tag.GetInt("statLifeMax2");
 			} catch { }
+		}
+		public override void Kill(double damage, int hitDirection, bool pvp, PlayerDeathReason damageSource) {
+			Player.respawnTimer /= 4;
 		}
 	}
 	public class Mod1hp : Mod

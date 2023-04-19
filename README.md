@@ -11,6 +11,7 @@ This mod:
 - fixes a ROD exploit that allowed to use it infinitely if your max HP
   is less than 7 (well, now it just kills you if you use it while the
   debuff is active)
+- reduces respawn cooldown by 4 times
 
 Planned:
 
